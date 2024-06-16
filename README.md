@@ -1,2 +1,4 @@
 # mineflayer-in-discord-bot
-idk?
+idk why im doing this?
+
+Showcase : https://streamable.com/1q6vlm
